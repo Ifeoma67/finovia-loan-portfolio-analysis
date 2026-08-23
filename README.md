@@ -151,7 +151,7 @@ The Finance page connects lending activity with collections, costs, and profitab
 - Net income by branch
 
 ### Financial headline
-- **£795M** billed
+- **$795M** billed
 - Approximately **$683M** collected
 - Approximately **$112M** outstanding
 - Approximately **$559M** total cost of lending
@@ -173,10 +173,10 @@ The overall repayment rate of **67.93%** is below the **75% target**, indicating
 The overall default rate is **6.03%**, but portfolio-level averages can hide differences between products and branches. Product- and branch-level monitoring is therefore important for early risk identification.
 
 ### 4. Outstanding collections remain financially material
-Approximately **£112M** remains outstanding within the dataset. Improving collections could therefore have a meaningful impact on financial performance.
+Approximately **£112M** remains outstanding within the dataset. Improving collections could therefore meaningfully impact financial performance.
 
 ### 5. Profitability should be considered alongside portfolio growth
-Finovia generated approximately **£124M net income** with an **18.2% profit margin**. This reinforces the need to compare lending growth with collections, cost, and profitability rather than viewing volume in isolation.
+Finovia generated approximately **£124M net income** with an **18.2% profit margin**. This reinforces the need to compare lending growth with collections, costs, and profitability rather than viewing volume in isolation.
 
 ---
 
