@@ -6,7 +6,7 @@ Finovia Global Finance is a simulated digital consumer lender operating across m
 
 The purpose of the dashboard is to help decision-makers monitor lending activity, compare branches and products, assess repayment and default behaviour, and understand how collections and lending costs translate into profitability.
 
-> **Portfolio note:** This project was developed using a simulated financial-services dataset provided as part of data analytics training. The Power BI report design, visualisation, analysis, and business interpretation presented here form part of my personal analytics portfolio.
+> **Portfolio note:** This project was developed using a simulated financial-services dataset. The Power BI report design, visualisation, analysis, and business interpretation presented here form part of my personal analytics portfolio.
 
 ---
 
