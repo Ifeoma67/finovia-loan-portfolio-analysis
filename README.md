@@ -152,10 +152,10 @@ The Finance page connects lending activity with collections, costs, and profitab
 
 ### Financial headline
 - **£795M** billed
-- Approximately **£683M** collected
-- Approximately **£112M** outstanding
-- Approximately **£559M** total cost of lending
-- Approximately **£124M** net income
+- Approximately **$683M** collected
+- Approximately **$112M** outstanding
+- Approximately **$559M** total cost of lending
+- Approximately **$124M** net income
 - **85.9%** collection rate
 - **18.2%** profit margin
 
@@ -193,7 +193,7 @@ Finovia generated approximately **£124M net income** with an **18.2% profit mar
 
 ## Report Development
 
-The original training brief supplied a prepared lending data model and measures as the analytical starting point. This portfolio project focuses on the development of the **interactive Power BI reporting layer**, visual design, KPI presentation, cross-page navigation, analysis, and management interpretation.
+The original training brief supplied a prepared lending data model and measures as the analytical starting point. This portfolio project focuses on developing the **interactive Power BI reporting layer**, visual design, KPI presentation, cross-page navigation, analysis, and management interpretation.
 
 ### Power BI features demonstrated
 - Multi-page report design
