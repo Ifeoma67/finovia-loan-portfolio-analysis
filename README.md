@@ -71,11 +71,11 @@ A full field-level description is available in [`documentation/data_dictionary.m
 | Defaulted Loans | 241 |
 | Default Rate | 6.03% |
 | Repeat Borrower Rate | 50% |
-| Amount Billed | £795M |
-| Amount Collected | £683M |
-| Outstanding Balance | £112M |
-| Total Cost of Lending | £559M |
-| Net Income | £124M |
+| Amount Billed | $795M |
+| Amount Collected | $683M |
+| Outstanding Balance | $112M |
+| Total Cost of Lending | $559M |
+| Net Income | $124M |
 | Collection Rate | 85.9% |
 | Profit Margin | 18.2% |
 
